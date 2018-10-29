@@ -1,0 +1,7 @@
+C:\Users\Vitor\Downloads\Teste\desafio-controle-gasto-combustivel\ConsoleApplication\bin\Debug\LogCombustivel.exe.config
+C:\Users\Vitor\Downloads\Teste\desafio-controle-gasto-combustivel\ConsoleApplication\bin\Debug\LogCombustivel.exe
+C:\Users\Vitor\Downloads\Teste\desafio-controle-gasto-combustivel\ConsoleApplication\bin\Debug\LogCombustivel.pdb
+C:\Users\Vitor\Downloads\Teste\desafio-controle-gasto-combustivel\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Downloads\Teste\desafio-controle-gasto-combustivel\ConsoleApplication\obj\Debug\LogCombustivel.exe
+C:\Users\Vitor\Downloads\Teste\desafio-controle-gasto-combustivel\ConsoleApplication\obj\Debug\LogCombustivel.pdb
+C:\Users\Vitor\Downloads\Teste\desafio-controle-gasto-combustivel\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
